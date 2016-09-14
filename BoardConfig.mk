@@ -19,3 +19,6 @@ include device/google/shamrock/board/*.mk
 
 # inherit from the proprietary version
 -include vendor/google/shamrock/BoardConfigVendor.mk
+
+# Build a seperate vendor
+TARGET_COPY_OUT_VENDOR := system
