@@ -2,7 +2,7 @@ Copyright 2016 - The CyanogenMod Project
 
 Android One Third Generation Device's (shamrock)
 ============================================================
-Basic   | Spec Sheet
+Basic   | Spesification List
 -------:|:-------------------------
 CPU     | Quad-core 1.5 GHz ARM® Cortex™ A53 and quad-core 1.2 GHz ARM® Cortex™ A53
 CHIPSET | Qualcomm MSM8952 Snapdragon 617
