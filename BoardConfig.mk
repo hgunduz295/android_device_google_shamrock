@@ -19,7 +19,3 @@ include device/google/shamrock/board/*.mk
 
 # inherit from the proprietary version
 -include vendor/google/shamrock/BoardConfigVendor.mk
-
-#Yarramı Ye Edition Edit By Raycebin
-
-
