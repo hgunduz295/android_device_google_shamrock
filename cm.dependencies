@@ -7,8 +7,4 @@
     "repository": "android_kernel_google_shamrock",
     "target_path": "kernel/google/shamrock"
   },
-  {
-    "repository": "proprietary_vendor_google",
-    "target_path": "vendor/google"
-  }
 ]
