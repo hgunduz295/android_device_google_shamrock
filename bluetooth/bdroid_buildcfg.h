@@ -14,10 +14,18 @@
  * limitations under the License.
  */
 
+
 #ifndef _BDROID_BUILDCFG_H
 #define _BDROID_BUILDCFG_H
 
 #define BTM_DEF_LOCAL_NAME   "GM 5 Plus"
+#define BTA_DISABLE_DELAY 100 /* in milliseconds */
 #define BLUETOOTH_QTI_SW TRUE
-#define BLE_VND_INCLUDED   TRUE
+#define BTA_HOST_INTERLEAVE_SEARCH TRUE
+#define SC_MODE_INCLUDED FALSE
+#define HCI_RAW_CMD_INCLUDED FALSE
+#define SDP_DEBUG FALSE
+#define BTSNOOP_MEM FALSE
+
 #endif
+
