@@ -124,10 +124,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/etc/init.qcom.bt.sh:system/etc/init.qcom.bt.sh
 
-# Browser
-PRODUCT_PACKAGES += \
-    Gello
-
 # Camera
 PRODUCT_PACKAGES += \
     Camera2
